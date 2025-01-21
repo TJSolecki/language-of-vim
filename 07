@@ -1,0 +1,24 @@
+                    __     ___                                         
+                    \ \   / (_)_ __ ___    _ __   ___  _   _ _ __  ___ 
+                     \ \ / /| | '_ ` _ \  | '_ \ / _ \| | | | '_ \/ __|
+                      \ V / | | | | | | | | | | | (_) | |_| | | | \__ \
+                       \_/  |_|_| |_| |_| |_| |_|\___/ \__,_|_| |_|___/
+                                                   
+
+                           - w (word) move to the start of the
+                             next word
+                           - e (end) move to the end of the
+                             next word
+                           - b (back) move backwards 1 word
+                           - f (find) move to the next instance
+                             of a letter on the same line
+                                - F searches backwards
+                           - t (to) same as f, but moves to the
+                             character before the one specified
+                                - T searches backwards
+                           - / (search) basically (Ctr/Cmd)+f
+                                - n for next result
+                                - N for previous
+
+
+07

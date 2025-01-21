@@ -1,0 +1,24 @@
+                    __     ___                            _         
+                    \ \   / (_)_ __ ___   __   _____ _ __| |__  ___ 
+                     \ \ / /| | '_ ` _ \  \ \ / / _ \ '__| '_ \/ __|
+                      \ V / | | | | | | |  \ V /  __/ |  | |_) \__ \
+                       \_/  |_|_| |_| |_|   \_/ \___|_|  |_.__/|___/
+                    
+
+                           - y (yank) copies text                            
+                               - p (paste) pastes text                            
+                           - d (delete) delete text
+                           - c (change) delete & enter insert mode
+                           - u (undo)
+                                - ctr+r (redo)
+
+
+
+
+
+
+
+
+
+
+06
